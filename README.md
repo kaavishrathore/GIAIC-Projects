@@ -1,2 +1,1 @@
-# GIAIC.py
-GIAIC Projects
+
